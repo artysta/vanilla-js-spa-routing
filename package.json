@@ -1,0 +1,11 @@
+{
+  "name": "vanilla-js-spa-routing",
+  "version": "1.0.0",
+  "description": "A simple package that provides Vanillia JS SPA routing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Kurek",
+  "license": "ISC"
+}
